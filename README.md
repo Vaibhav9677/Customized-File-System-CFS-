@@ -61,8 +61,8 @@ This project helps in understanding the internal working of file systems by impl
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+https://github.com/Vaibhav9677/Customized-File-System-CFS-.git
+cd Customized-File-System-CFS-
 ```
 
 ### 2. Run the file system
